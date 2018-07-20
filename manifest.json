@@ -1,0 +1,14 @@
+{
+  "name": "CSS Debug",
+  "manifest_version": 2,
+  "version": "0.1",
+  "description": "Debug your CSS with a click",
+  "icons": {
+  },
+  "background": {
+    "scripts": []
+  },
+  "permissions": [],
+  "browser_action": {
+  }
+}
